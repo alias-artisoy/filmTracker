@@ -1,0 +1,7 @@
+{
+  "name": "filmTracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
